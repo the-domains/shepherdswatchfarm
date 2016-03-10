@@ -1,0 +1,28 @@
+name: shepherdswatchfarm
+favicon: null
+layout_spectrum: 0.9149798222351819
+typography_spectrum: 0.5343777197413146
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6664376319386065
+  lightness: 0.7807483631186187
+  saturation: 0.7658743527717888
+  rhythmicContrast: 0.9444894653279334
+purpose: []
