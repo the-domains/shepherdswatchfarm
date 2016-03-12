@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_ \_ \_ Our farm was established in 2000 and started out with newlyweds, a couple horses, three cats and three German Shepherds. \_ When we first moved in the most excitement you would find was the weekend tractor excursion into the woods to find firewood for the season or the occasional trail ride. \_ Today the farm has grown significantly and is home to Shepherds Watch Apiary, Emily's Eggs and Shepherds Watch Nubians. \_"
-datePublished: '2016-03-12T05:02:17.664Z'
-dateModified: '2016-03-12T05:01:34.926Z'
+datePublished: '2016-03-12T15:08:11.002Z'
+dateModified: '2016-03-12T15:08:10.696Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-12-our-farm-was-established-in-2000-and-started-out-with.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-our-farm-was-established-in-2000-and-started-out-with.md
-published: true
 url: our-farm-was-established-in-2000-and-started-out-with/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9250360-8f07-4120-92d2-74c7bbda7e95.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/58b35170b7ff6e3a1e93deac644128e47446ebef.png)
 
 Our farm was established in 2000 and started out with newlyweds, a couple horses, three cats and three German Shepherds.   When we first moved in the most excitement you would find was the weekend tractor excursion into the woods to find firewood for the season or the occasional trail ride.   Today the farm has grown significantly and is home to Shepherds Watch Apiary, Emily's Eggs and Shepherds Watch Nubians.  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/310f070f-ef0a-4542-84b7-aa1028b78524.gif)
 
