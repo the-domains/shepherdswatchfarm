@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: "\_ \_ \_ Our farm was established in 2000 and started out with newlyweds, a couple horses, three cats and three German Shepherds. \_ When we first moved in the most excitement you would find was the weekend tractor excursion into the woods to find firewood for the season or the occasional trail ride. \_ Today the farm has grown significantly and is home to Shepherds Watch Apiary, Emily's Eggs and Shepherds Watch Nubians. \_"
-datePublished: '2016-03-12T19:45:04.198Z'
-dateModified: '2016-03-12T19:44:25.075Z'
+datePublished: '2016-03-12T21:09:52.214Z'
+dateModified: '2016-03-12T21:09:48.284Z'
 title: Welcome to Sheherds Watch Farm
 author: []
 sourcePath: _posts/2016-03-12-our-farm-was-established-in-2000-and-started-out-with.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: our-farm-was-established-in-2000-and-started-out-with/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/58b35170b7ff6e3a1e93deac644128e47446ebef.png)
