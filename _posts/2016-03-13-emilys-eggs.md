@@ -1,25 +1,25 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-13T04:51:27.005Z'
-dateModified: '2016-03-13T04:51:16.351Z'
+datePublished: '2016-03-13T17:42:21.229Z'
+dateModified: '2016-03-13T17:21:20.196Z'
 title: "Emily's Eggs"
 author: []
+sourcePath: _posts/2016-03-13-emilys-eggs.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-13-emilys-eggs.md
-published: true
 url: emilys-eggs/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fe156db-e37c-4a59-8b6c-7bd7fa264148.jpg)
