@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-13T17:42:21.229Z'
-dateModified: '2016-03-13T17:21:20.196Z'
+datePublished: '2016-03-13T18:47:28.994Z'
+dateModified: '2016-03-13T18:47:23.385Z'
 title: "Emily's Eggs"
 author: []
 sourcePath: _posts/2016-03-13-emilys-eggs.md
@@ -23,7 +23,7 @@ _type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fe156db-e37c-4a59-8b6c-7bd7fa264148.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d62f26fc-e770-4de6-b072-cf553a311e71.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d79fe0f66b27616ff37995d31bcb7e9f081e50f7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c049bb69-05d0-4fc6-8089-62bff0e47c82.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/958cfc99-86e5-41e7-b182-d42ede904d73.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6e7e88a-d183-49c0-b2d6-7446fd7db328.jpg)
