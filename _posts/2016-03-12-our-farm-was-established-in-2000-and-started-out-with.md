@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_ \_ \_ Our farm was established in 2000 and started out with newlyweds, a couple horses, three cats and three German Shepherds. \_ When we first moved in the most excitement you would find was the weekend tractor excursion into the woods to find firewood for the season or the occasional trail ride. \_ Today the farm has grown significantly and is home to Shepherds Watch Apiary, Emily's Eggs and Shepherds Watch Nubians. \_"
-datePublished: '2016-03-13T04:37:50.850Z'
-dateModified: '2016-03-13T04:37:50.459Z'
+datePublished: '2016-03-13T04:40:38.105Z'
+dateModified: '2016-03-13T04:40:35.815Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-our-farm-was-established-in-2000-and-started-out-with.md
