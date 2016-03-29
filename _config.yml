@@ -1,6 +1,6 @@
 name: shepherdswatchfarm
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.48926
 typography_spectrum: 1
 collections:
   - index:
@@ -34,7 +34,7 @@ color:
     - '#7f610f'
     - '#ff0000'
   brandStrength: 0
-  lightness: 0.25
+  lightness: 0.75
   saturation: 0.1875
   rhythmicContrast: 1
 purpose: []
