@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: '&amp;lt;meta http-equiv="refresh" content="0; URL=/aridgeway1?_fb_noscript=1" /&amp;gt;&amp;lt;meta http-equiv="X-Frame-Options" content="DENY" /&amp;gt;'
-datePublished: '2016-03-29T04:05:21.586Z'
-dateModified: '2016-03-29T04:02:53.048Z'
+datePublished: '2016-03-29T04:06:51.097Z'
+dateModified: '2016-03-29T04:06:39.881Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-25-andampltmeta-http-equivrefresh-content0-urlaridgeway.md
