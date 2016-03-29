@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: '&amp;lt;meta http-equiv="refresh" content="0; URL=/aridgeway1?_fb_noscript=1" /&amp;gt;&amp;lt;meta http-equiv="X-Frame-Options" content="DENY" /&amp;gt;'
-datePublished: '2016-03-29T04:01:07.509Z'
-dateModified: '2016-03-29T03:58:49.963Z'
+datePublished: '2016-03-29T04:05:21.586Z'
+dateModified: '2016-03-29T04:02:53.048Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-25-andampltmeta-http-equivrefresh-content0-urlaridgeway.md
@@ -18,7 +19,6 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: andampltmeta-http-equivrefresh-content0-urlaridgeway/index.html
 _type: Blurb
 
 ---
