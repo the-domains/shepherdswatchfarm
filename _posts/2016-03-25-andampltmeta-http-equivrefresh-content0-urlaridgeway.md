@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '&amp;lt;meta http-equiv="refresh" content="0; URL=/aridgeway1?_fb_noscript=1" /&amp;gt;&amp;lt;meta http-equiv="X-Frame-Options" content="DENY" /&amp;gt;'
-datePublished: '2016-03-29T03:58:42.197Z'
-dateModified: '2016-03-29T03:03:43.415Z'
+datePublished: '2016-03-29T04:01:07.509Z'
+dateModified: '2016-03-29T03:58:49.963Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-25-andampltmeta-http-equivrefresh-content0-urlaridgeway.md
