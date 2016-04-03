@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-03T16:58:39.165Z'
-dateModified: '2016-04-03T16:58:05.763Z'
+datePublished: '2016-04-03T17:00:19.399Z'
+dateModified: '2016-04-03T17:00:19.025Z'
 title: "Emily's Eggs"
 author: []
 sourcePath: _posts/2016-03-13-emilys-eggs.md
@@ -35,8 +35,8 @@ _type: WebPage
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4e996b4-b8df-4f47-aa2f-78d9e1aae7b9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/10cea380-f3ce-4159-8d9e-711d9746e191.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40a7c065-2190-47bf-85ad-e4e9c838038e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78be07d3-2dd1-4e9c-a2f3-46241717b463.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa616eca-1c90-4027-8035-77b4261a0067.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b6a54c18ab41b948b5b09b2c3d365e8d40c5dd4.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5bceb481e2a8536f11473061e5ed30182780fed6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc840cbe-a318-4f66-9bd2-02ef260cb24d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2865b2c0-884e-454d-8203-fd6a03236e85.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b14aa06-9419-4f0a-aec5-ad5c5dbff9a4.jpg)
