@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-13T18:47:28.994Z'
-dateModified: '2016-03-13T18:47:23.385Z'
+datePublished: '2016-04-03T16:58:39.165Z'
+dateModified: '2016-04-03T16:58:05.763Z'
 title: "Emily's Eggs"
 author: []
 sourcePath: _posts/2016-03-13-emilys-eggs.md
@@ -22,15 +22,15 @@ url: emilys-eggs/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fe156db-e37c-4a59-8b6c-7bd7fa264148.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7038876427ddc3e2a3ef910a35e311bbdf71722a.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d79fe0f66b27616ff37995d31bcb7e9f081e50f7.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c049bb69-05d0-4fc6-8089-62bff0e47c82.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/958cfc99-86e5-41e7-b182-d42ede904d73.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ed19709af6a4f7f3979722738fc08fb67d9a3aa.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/242957ab874b86276f30097114eed1712353d1d6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6e7e88a-d183-49c0-b2d6-7446fd7db328.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3afe4a2-d02a-46fa-aab2-bed45556a6a0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0a7ca7d-7e69-4200-a166-80144bd54a86.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/841b1120-2b72-48fc-85f6-446f46e119a5.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc6c54c3-337c-43d5-a577-ed4e7c4f3313.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7abcd8b27f8841a3cfae5079aa8b6b475ad09e7f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b78b9b60-476f-4dc2-86db-7b49b1cd47c2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4e996b4-b8df-4f47-aa2f-78d9e1aae7b9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/10cea380-f3ce-4159-8d9e-711d9746e191.jpg)
