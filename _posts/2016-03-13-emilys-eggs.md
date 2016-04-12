@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-09T03:09:34.504Z'
-dateModified: '2016-04-09T03:08:05.694Z'
+datePublished: '2016-04-12T04:10:42.413Z'
+dateModified: '2016-04-12T04:10:41.944Z'
 title: "Emily's Eggs"
 author: []
 sourcePath: _posts/2016-03-13-emilys-eggs.md
