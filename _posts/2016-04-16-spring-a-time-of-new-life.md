@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: "Spring on the farm is an exciting time of new life and new beginnings. \_We are waiting to pick up our new little doelings from Bulletcreek Farm in TN. \_They come from great confirmation and milking lines and will be a great addition to our breeding program. \_Edith and Ethel look ready to pop and have just a month to go before we welcome our first babies to the farm"
-datePublished: '2016-04-16T06:08:14.433Z'
-dateModified: '2016-04-16T06:03:59.102Z'
+datePublished: '2016-04-16T06:08:44.389Z'
+dateModified: '2016-04-16T06:08:28.731Z'
 title: Spring - A time of new life
 author: []
 sourcePath: _posts/2016-04-16-spring-a-time-of-new-life.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: spring-a-time-of-new-life/index.html
-_type: Article
+_type: Blurb
 
 ---
 Spring on the farm is an exciting time of new life and new beginnings.  We are waiting to pick up our new little doelings from Bulletcreek Farm in TN.  They come from great confirmation and milking lines and will be a great addition to our breeding program.  Edith and Ethel look ready to pop and have just a month to go before we welcome our first babies to the farm
