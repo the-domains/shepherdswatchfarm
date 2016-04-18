@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Spring on the farm is an exciting time of new life and new beginnings. We are waiting to pick up our new little doelings from Bulletcreek Farm in TN. They come from great confirmation and milking lines and will be a great addition to our breeding program. Edith and Ethel look ready to pop and have just a month to go before we welcome our first babies to the farm
-datePublished: '2016-04-18T14:17:59.576Z'
-dateModified: '2016-04-18T06:59:54.727Z'
+datePublished: '2016-04-18T14:19:45.627Z'
+dateModified: '2016-04-18T14:19:09.304Z'
 title: '"Honey"'
 author:
   - name: ''
