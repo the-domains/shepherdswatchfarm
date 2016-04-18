@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-18T05:56:34.027Z'
-dateModified: '2016-04-18T05:56:18.151Z'
+datePublished: '2016-04-18T05:59:11.093Z'
+dateModified: '2016-04-18T05:58:32.799Z'
 title: ''
 author:
   - name: ''
@@ -21,7 +21,7 @@ publisher:
   url: null
   favicon: null
 url: emilys-eggs/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7038876427ddc3e2a3ef910a35e311bbdf71722a.jpg)
