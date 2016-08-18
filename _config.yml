@@ -1,41 +1,41 @@
-name: shepherdswatchfarm
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 1
+title: Shepherds Watch Farm
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: Shepherds Watch Farm
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0.5
+  brandStrength: 0.5
+  rhythmicContrast: 0.5
   brandColors:
     - '#000033'
     - '#cc9900'
     - '#006600'
     - '#7f610f'
     - '#ff0000'
-  brandStrength: 0.5
   lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: shepherdswatchfarm
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 1
+layout_spectrum: 0
